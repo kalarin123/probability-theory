@@ -21,4 +21,4 @@
 
 ## Файлы
 
-- [`solutions.ipynb`](solutions.ipynb) — разбор формул и программные решения на Python.
+- [`Лаб1(Теор.Вер).ipynb`](solutions.ipynb) — разбор формул и программные решения на Python.
