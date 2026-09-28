@@ -6,9 +6,3 @@
 
 * [Лабораторная работа №1. Комбинаторика и непосредственное вычисление вероятностей](lab-01-combinatorics-and-probability) — [Jupyter Notebook](lab-01-combinatorics-and-probability/lab1.ipynb)
 * [Лабораторная работа №2. Классическая и геометрическая вероятность](lab-02-classical-and-geometric-probability) — [Jupyter Notebook](lab-02-classical-and-geometric-probability/Lab2(Теор.Вер).ipynb)
-
-## Единая тетрадь лабораторных работ № 1–4
-
-Все четыре лабораторные работы собраны в [одном Jupyter Notebook](theory_probability_labs_1-4.ipynb). В работах № 3 и № 4 приведены решения задач из практических занятий, проверочные вычисления на Python и моделирование опыта с двумя урнами.
-
-Первоначальные отдельные файлы лабораторных № 1 и № 2 сохранены в папках выше.
